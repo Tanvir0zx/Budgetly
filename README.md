@@ -1,4 +1,5 @@
 # Budgetly
+![Budgetly dashboard](docs/screenshots/01-dashboard.png)
 
 A Python desktop personal-finance prototype for recording income and expenses, managing accounts, setting category budgets, and transferring money between accounts.
 
